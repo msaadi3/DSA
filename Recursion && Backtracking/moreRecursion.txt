@@ -1,0 +1,3 @@
+Solve those  binary search questions again using recursive binary search that i've done to be more good with recursion
+dry run and revise all recursive solutions like trees questions and linked list questions and others that include recursion 
+sorting algos that i've not done using recursion 

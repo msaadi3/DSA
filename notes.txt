@@ -1,0 +1,13 @@
+find the power of 2 (leetcode question). another aproach.
+we can find number of set bits of a number if set bits are even then that number is power of 2 and if set bits are odd then it is not 
+
+create a program using switch case that how many particular notes(100,500,1000) are required to make a particular amount (question in lecture8 of codehelp)
+
+// even or odd / gotta understand this concept
+int isEven (int n ){
+    if (n&1)
+    {
+        return 0; // odd
+    }
+    return 1; // even
+}
